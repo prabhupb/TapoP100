@@ -22,7 +22,7 @@ p100.login() #Sends credentials to the plug and creates AES Key and IV for furth
 p100.turnOn() #Sends the turn on request
 p100.setBrightness(100) #Sends the set brightness request
 p100.turnOff() #Sends the turn off request
-p100.getDeviceInfo() #Returns dict with all the device info
+p100.getDevice() #Returns dict with all the device info
 
 #Comment1
 
