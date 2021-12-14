@@ -24,6 +24,7 @@ p100.setBrightness(100) #Sends the set brightness request
 p100.turnOff() #Sends the turn off request
 p100.getDeviceInfo() #Returns dict with all the device info
 
+#Comment1
 
 ```
 
